@@ -1,4 +1,6 @@
-
+DO NOT LAND LIKE THIS:
+would consider adding a subdir called $HOME or HOME that is all the stuff that you can just straight copy to home dir.
+then everything else in here can be bits and bobs. like the random karabiner complex modification?
 
 
 go `System Preferences > Keyboard > Shortcuts > Mission Control` and turn these off.

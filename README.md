@@ -36,7 +36,7 @@ TODO: karabiner
 
 #### Windows
 
-TODO: autohotkey
+install [AutoHotKey](https://www.autohotkey.com/). then go [windows readme reamp section](./windows/README.md)
 
 ## Development
 
